@@ -1,0 +1,1 @@
+# Velosiped, baliq, telefon, soat rasmlarini ajratib beruvchi app
